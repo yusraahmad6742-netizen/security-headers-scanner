@@ -1,0 +1,4 @@
+# Authorized lab targets only — local OWASP Juice Shop instance
+http://localhost:3000/
+http://localhost:3000/#/login
+http://localhost:3000/#/search
